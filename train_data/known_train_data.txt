@@ -1,0 +1,9 @@
+known_function	ability	known_ability
+known_function	degree	known_degree
+known_function	detergent	known_detergent
+known_function	distance	known_distance
+known_function	facts	known_facts
+known_function	field	known_field
+known_function	principal	known_principal
+known_function	telephone	known_telephone
+known_function	time	known_time

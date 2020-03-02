@@ -1,0 +1,8 @@
+detailed_function	descriptions	detailed_descriptions
+detailed_function	directions	detailed_directions
+detailed_function	energy detailed_energy
+detailed_function	information	detailed_information
+detailed_function	inspection	detailed_inspection
+detailed_function	statement	detailed_statement
+detailed_function	studies	detailed_studies
+detailed_function	study	detailed_study

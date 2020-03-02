@@ -1,0 +1,6 @@
+expressed_function	belief	expressed_belief	
+expressed_function	doubts	expressed_doubts	
+expressed_function	emotions	expressed_emotions	
+expressed_function	opinion	expressed_opinion	
+expressed_function	part	expressed_part	
+expressed_function	satisfaction	expressed_satisfaction

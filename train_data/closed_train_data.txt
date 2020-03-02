@@ -1,0 +1,8 @@
+closed_function	bedroom	closed_bedroom
+closed_function	door	closed_door
+closed_function	doors	closed_doors
+closed_function	field	closed_field
+closed_function	fields	closed_fields
+closed_function	hall	closed_hall
+closed_function	interval	closed_interval
+

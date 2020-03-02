@@ -1,0 +1,5 @@
+expected_function	solution expected_solution
+expected_function	disagreement expected_disagreement
+expected_function	escape expected_escape
+expected_function	issues expected_issues
+expected_function	failure expected_failure

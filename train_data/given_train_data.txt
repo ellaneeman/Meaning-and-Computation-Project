@@ -1,0 +1,16 @@
+given_function	change	given_change
+given_function	class	given_class	
+given_function	degree	given_degree	
+given_function	information given_information
+given_function	instance	given_instance	
+given_function	interval	given_interval	
+given_function	line	given_line	
+given_function	mass	given_mass	
+given_function	name	given_name	
+given_function	power	given_power	
+given_function	subjects	given_subjects	
+given_function	tickets	given_tickets	
+given_function	time	given_time	
+given_function	values	given_values	
+given_function	way	given_way	
+given_function	year	given_year	

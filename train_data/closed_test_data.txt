@@ -1,0 +1,6 @@
+closed_function	farm	closed_farm
+closed_function	group	closed_group
+closed_function	way	closed_way
+closed_function	bottle	closed_bottle
+closed_function	store	closed_store
+

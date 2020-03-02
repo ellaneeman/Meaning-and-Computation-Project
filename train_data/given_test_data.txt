@@ -1,0 +1,7 @@
+given_function	car	given_car
+given_function	book	given_book
+given_function	conditions	given_conditions
+given_function	goals	given_goals
+given_function	facts	given_facts
+given_function	values	given_values
+

@@ -1,0 +1,105 @@
+Training lexical function...broken_function with 5 samples
+Training lexical function...changed_function with 2 samples
+Training lexical function...closed_function with 7 samples
+Training lexical function...colored_function with 8 samples
+Training lexical function...detailed_function with 5 samples
+Training lexical function...expressed_function with 6 samples
+Training lexical function...given_function with 15 samples
+Training lexical function...improved_function with 3 samples
+
+detailed_figure neighbors:
+[('essential_part', 0.9580936375771915), ('important_part', 0.9580936375771915), ('large_part', 0.8834786652212306), ('rocked_back', 0.8448816447103468), ('American_faith', 0.8448816447103464), ('Florentine_vase', 0.8448816447103464), ('active_interest', 0.8448816447103464), ('anxious_children', 0.8448816447103464), ('appropriate_participation', 0.8448816447103464), ('aroused_interest', 0.8448816447103464)]
+detailed_explanation neighbors:
+[('important_role', 0.9499602988837068), ('detailed_study', 0.847767918907754), ('essential_part', 0.7328711022504456), ('important_part', 0.7328711022504456), ('large_part', 0.6729158362743822), ('additional_lines', 0.6325906117447184), ('big_factories', 0.6325906117447184), ('blue_chair', 0.6325906117447184), ('brocaded_sofa', 0.6325906117447184), ('cassocked_bloods', 0.6325906117447184)]
+detailed_book neighbors:
+[('Black_strips', 0.9715265041776449), ('Jewish_prisoners', 0.9715265041776449), ('Light_sticks', 0.9715265041776449), ('Prickly_twinges', 0.9715265041776449), ('accepted_universe', 0.9715265041776449), ('active_preparations', 0.9715265041776449), ('additional_bodies', 0.9715265041776449), ('additional_effect', 0.9715265041776449), ('alert_system', 0.9715265041776449), ('allowed_transfer', 0.9715265041776449)]
+detailed_path neighbors:
+[('Black_strips', 0.9933435387939936), ('Jewish_prisoners', 0.9933435387939936), ('Light_sticks', 0.9933435387939936), ('Prickly_twinges', 0.9933435387939936), ('accepted_universe', 0.9933435387939936), ('active_preparations', 0.9933435387939936), ('additional_bodies', 0.9933435387939936), ('additional_effect', 0.9933435387939936), ('alert_system', 0.9933435387939936), ('allowed_transfer', 0.9933435387939936)]
+
+
+given_car neighbors:
+[('far_end', 0.8768251595245892), ('Black_strips', 0.8716129860875418), ('Jewish_prisoners', 0.8716129860875418), ('Light_sticks', 0.8716129860875418), ('Prickly_twinges', 0.8716129860875418), ('accepted_universe', 0.8716129860875418), ('active_preparations', 0.8716129860875418), ('additional_bodies', 0.8716129860875418), ('additional_effect', 0.8716129860875418), ('alert_system', 0.8716129860875418)]
+given_book neighbors:
+[('far_end', 0.955470715600622), ('available_supplies', 0.9133166688712672), ('great_number', 0.9133166688712672), ('low_cost', 0.9133166688712672), ('religious_development', 0.9133166688712672), ('white_houses', 0.9133166688712672), ('back_seat', 0.9127597701322809), ('Black_strips', 0.8735151369659766), ('Jewish_prisoners', 0.8735151369659766), ('Light_sticks', 0.8735151369659766)]
+given_facts neighbors:
+[('available_supplies', 0.6689378193494454), ('great_number', 0.6689378193494454), ('low_cost', 0.6689378193494454), ('religious_development', 0.6689378193494454), ('white_houses', 0.6689378193494454), ('far_end', 0.650135688273971), ('back_seat', 0.6171433462029134), ('bad_incident', 0.5443689606433441), ('given_tickets', 0.5443689606433441), ('safe_distance', 0.5443689606433441)]
+given_goals neighbors:
+[('available_supplies', 0.6902522890606135), ('great_number', 0.6902522890606135), ('low_cost', 0.6902522890606135), ('religious_development', 0.6902522890606135), ('white_houses', 0.6902522890606135), ('far_end', 0.6688214012412688), ('back_seat', 0.6346509941886223), ('bad_incident', 0.5452890287945691), ('given_tickets', 0.5452890287945691), ('safe_distance', 0.5452890287945691)]
+
+
+improved_work neighbors:
+[('improved_equipment', 0.9476557718625779), ('old_days', 0.9476557718625779), ('hot_water', 0.8227849823894531), ('rocked_back', 0.7328207483878177), ('American_faith', 0.7328207483878175), ('Florentine_vase', 0.7328207483878175), ('active_interest', 0.7328207483878175), ('anxious_children', 0.7328207483878175), ('appropriate_participation', 0.7328207483878175), ('aroused_interest', 0.7328207483878175)]
+improved_car neighbors:
+[('improved_equipment', 0.9843764114857315), ('old_days', 0.9843764114857315), ('hot_water', 0.8540143674392983), ('rocked_back', 0.7611541057454222), ('American_faith', 0.7611541057454215), ('Florentine_vase', 0.7611541057454215), ('active_interest', 0.7611541057454215), ('anxious_children', 0.7611541057454215), ('appropriate_participation', 0.7611541057454215), ('aroused_interest', 0.7611541057454215)]
+improved_manner neighbors:
+[('improved_equipment', 0.9043022191589122), ('old_days', 0.9043022191589122), ('hot_water', 0.7858960143299822), ('American_faith', 0.6993963022672789), ('Florentine_vase', 0.6993963022672789), ('active_interest', 0.6993963022672789), ('anxious_children', 0.6993963022672789), ('appropriate_participation', 0.6993963022672789), ('aroused_interest', 0.6993963022672789), ('attractive_woman', 0.6993963022672789)]
+improved_machine neighbors:
+[('improved_equipment', 0.910558673278808), ('old_days', 0.910558673278808), ('hot_water', 0.791310986928007), ('rocked_back', 0.7042408238959672), ('American_faith', 0.7042408238959671), ('Florentine_vase', 0.7042408238959671), ('active_interest', 0.7042408238959671), ('anxious_children', 0.7042408238959671), ('appropriate_participation', 0.7042408238959671), ('aroused_interest', 0.7042408238959671)]
+improved_position neighbors:
+[('improved_equipment', 0.8889274089615893), ('old_days', 0.8889274089615893), ('hot_water', 0.7726256834207402), ('rocked_back', 0.6875046091425061), ('American_faith', 0.6875046091425058), ('Florentine_vase', 0.6875046091425058), ('active_interest', 0.6875046091425058), ('anxious_children', 0.6875046091425058), ('appropriate_participation', 0.6875046091425058), ('aroused_interest', 0.6875046091425058)]
+
+
+colored_table neighbors:
+[('long_knife', 0.9455062016701689), ('rosy_mouth', 0.9455062016701689), ('American_families', 0.9455062016701683), ('American_speech', 0.9455062016701683), ('Big_ones', 0.9455062016701683), ('Cheap_clothing', 0.9455062016701683), ('Christian_thought', 0.9455062016701683), ('English_china', 0.9455062016701683), ('Greek_history', 0.9455062016701683), ('Russian_poet', 0.9455062016701683)]
+colored_eyes neighbors:
+[('colored_brick', 0.7163484635962414), ('low_incident', 0.7163484635962414), ('so-called_night', 0.7163484635962414), ('American_families', 0.6252688553429133), ('American_speech', 0.6252688553429133), ('Big_ones', 0.6252688553429133), ('Cheap_clothing', 0.6252688553429133), ('Christian_thought', 0.6252688553429133), ('English_china', 0.6252688553429133), ('Greek_history', 0.6252688553429133)]
+colored_shirt neighbors:
+[('long_knife', 0.9994547209600224), ('rosy_mouth', 0.9994547209600224), ('American_families', 0.9994547209600222), ('American_speech', 0.9994547209600222), ('Big_ones', 0.9994547209600222), ('Cheap_clothing', 0.9994547209600222), ('Christian_thought', 0.9994547209600222), ('English_china', 0.9994547209600222), ('Greek_history', 0.9994547209600222), ('Russian_poet', 0.9994547209600222)]
+colored_baby neighbors:
+[('colored_brick', 0.7777225962989123), ('low_incident', 0.7777225962989123), ('so-called_night', 0.7777225962989123), ('long_knife', 0.6179589440564554), ('rosy_mouth', 0.6179589440564554), ('American_families', 0.6179589440564552), ('American_speech', 0.6179589440564552), ('Big_ones', 0.6179589440564552), ('Cheap_clothing', 0.6179589440564552), ('Christian_thought', 0.6179589440564552)]
+colored_car neighbors:
+[('long_knife', 0.7330950554568455), ('rosy_mouth', 0.7330950554568455), ('American_families', 0.7330950554568451), ('American_speech', 0.7330950554568451), ('Big_ones', 0.7330950554568451), ('Cheap_clothing', 0.7330950554568451), ('Christian_thought', 0.7330950554568451), ('English_china', 0.7330950554568451), ('Greek_history', 0.7330950554568451), ('Russian_poet', 0.7330950554568451)]
+colored_man neighbors:
+[('improved_equipment', 0.7430823043963822), ('old_days', 0.7430823043963822), ('hot_water', 0.6467479115323993), ('colored_brick', 0.5967736797101075), ('low_incident', 0.5967736797101075), ('so-called_night', 0.5967736797101075), ('American_faith', 0.58695566511796), ('Florentine_vase', 0.58695566511796), ('active_interest', 0.58695566511796), ('anxious_children', 0.58695566511796)]
+
+
+changed_country neighbors:
+[('changed_appearance', 0.8361982423997623), ('American_families', 0.5468103529627621), ('American_speech', 0.5468103529627621), ('Big_ones', 0.5468103529627621), ('Cheap_clothing', 0.5468103529627621), ('Christian_thought', 0.5468103529627621), ('English_china', 0.5468103529627621), ('Greek_history', 0.5468103529627621), ('Russian_poet', 0.5468103529627621), ('average_men', 0.5468103529627621)]
+changed_weather neighbors:
+[('changed_appearance', 0.8289081407110657), ('long_knife', 0.5577818701406816), ('rosy_mouth', 0.5577818701406816), ('American_families', 0.5577818701406806), ('American_speech', 0.5577818701406806), ('Big_ones', 0.5577818701406806), ('Cheap_clothing', 0.5577818701406806), ('Christian_thought', 0.5577818701406806), ('English_china', 0.5577818701406806), ('Greek_history', 0.5577818701406806)]
+changed_shape neighbors:
+[('changed_appearance', 0.8317968459504812), ('long_knife', 0.5534717304429932), ('rosy_mouth', 0.5534717304429932), ('American_families', 0.5534717304429926), ('American_speech', 0.5534717304429926), ('Big_ones', 0.5534717304429926), ('Cheap_clothing', 0.5534717304429926), ('Christian_thought', 0.5534717304429926), ('English_china', 0.5534717304429926), ('Greek_history', 0.5534717304429926)]
+changed_case neighbors:
+[('changed_appearance', 0.8081746237617938), ('American_families', 0.5873800677525901), ('American_speech', 0.5873800677525901), ('Big_ones', 0.5873800677525901), ('Cheap_clothing', 0.5873800677525901), ('Christian_thought', 0.5873800677525901), ('English_china', 0.5873800677525901), ('Greek_history', 0.5873800677525901), ('Russian_poet', 0.5873800677525901), ('average_men', 0.5873800677525901)]
+changed_circumstances neighbors:
+[('changed_appearance', 0.8339258386604438), ('long_knife', 0.5502639635496294), ('rosy_mouth', 0.5502639635496294), ('American_families', 0.5502639635496291), ('American_speech', 0.5502639635496291), ('Big_ones', 0.5502639635496291), ('Cheap_clothing', 0.5502639635496291), ('Christian_thought', 0.5502639635496291), ('English_china', 0.5502639635496291), ('Greek_history', 0.5502639635496291)]
+
+
+expressed_sorrow neighbors:
+[('English-Dutch_manors', 0.9774158536507268), ('black_gabardine', 0.9774158536507268), ('blasphemous_rites', 0.9774158536507268), ('broken-nosed_man', 0.9774158536507268), ('cold_annoyance', 0.9774158536507268), ('completed_schedules', 0.9774158536507268), ('cool_clothes', 0.9774158536507268), ('daily_contacts', 0.9774158536507268), ('death-like_trances', 0.9774158536507268), ('distinguished_place', 0.9774158536507268)]
+expressed_shame neighbors:
+[('English-Dutch_manors', 0.9776313772989041), ('black_gabardine', 0.9776313772989041), ('blasphemous_rites', 0.9776313772989041), ('broken-nosed_man', 0.9776313772989041), ('cold_annoyance', 0.9776313772989041), ('completed_schedules', 0.9776313772989041), ('cool_clothes', 0.9776313772989041), ('daily_contacts', 0.9776313772989041), ('death-like_trances', 0.9776313772989041), ('distinguished_place', 0.9776313772989041)]
+expressed_feelings neighbors:
+[('English-Dutch_manors', 0.9639944506347592), ('black_gabardine', 0.9639944506347592), ('blasphemous_rites', 0.9639944506347592), ('broken-nosed_man', 0.9639944506347592), ('cold_annoyance', 0.9639944506347592), ('completed_schedules', 0.9639944506347592), ('cool_clothes', 0.9639944506347592), ('daily_contacts', 0.9639944506347592), ('death-like_trances', 0.9639944506347592), ('distinguished_place', 0.9639944506347592)]
+expressed_disappointment neighbors:
+[('English-Dutch_manors', 0.9776329447926809), ('black_gabardine', 0.9776329447926809), ('blasphemous_rites', 0.9776329447926809), ('broken-nosed_man', 0.9776329447926809), ('cold_annoyance', 0.9776329447926809), ('completed_schedules', 0.9776329447926809), ('cool_clothes', 0.9776329447926809), ('daily_contacts', 0.9776329447926809), ('death-like_trances', 0.9776329447926809), ('distinguished_place', 0.9776329447926809)]
+expressed_words neighbors:
+[('English-Dutch_manors', 0.7682776596835837), ('black_gabardine', 0.7682776596835837), ('blasphemous_rites', 0.7682776596835837), ('broken-nosed_man', 0.7682776596835837), ('cold_annoyance', 0.7682776596835837), ('completed_schedules', 0.7682776596835837), ('cool_clothes', 0.7682776596835837), ('daily_contacts', 0.7682776596835837), ('death-like_trances', 0.7682776596835837), ('distinguished_place', 0.7682776596835837)]
+
+
+broken_table neighbors:
+[('black_silk', 0.8260046530605702), ('broken_nails', 0.8260046530605702), ('tossed_back', 0.8260046530605702), ('stepped_back', 0.6798245814278698), ('turned_back', 0.6509985523225694), ('American_families', 0.541996405635879), ('American_speech', 0.541996405635879), ('Big_ones', 0.541996405635879), ('Cheap_clothing', 0.541996405635879), ('Christian_thought', 0.541996405635879)]
+broken_window neighbors:
+[('black_silk', 0.9354122987677238), ('broken_nails', 0.9354122987677238), ('tossed_back', 0.9354122987677238), ('stepped_back', 0.7698685763247275), ('turned_back', 0.6472876063604535), ('open_door', 0.5370355721139359), ('American_families', 0.3469332144050026), ('American_speech', 0.3469332144050026), ('Big_ones', 0.3469332144050026), ('Cheap_clothing', 0.3469332144050026)]
+broken_leg neighbors:
+[('black_silk', 0.898465110358325), ('broken_nails', 0.898465110358325), ('tossed_back', 0.898465110358325), ('stepped_back', 0.7394698046494009), ('turned_back', 0.6476924900939554), ('open_door', 0.51581828590549), ('long_knife', 0.4102290640877712), ('rosy_mouth', 0.4102290640877712), ('American_families', 0.4102290640877708), ('American_speech', 0.4102290640877708)]
+broken_hand neighbors:
+[('black_silk', 0.9133855216476358), ('broken_nails', 0.9133855216476358), ('tossed_back', 0.9133855216476358), ('stepped_back', 0.7517698341729646), ('turned_back', 0.6332858974049221), ('open_door', 0.5243857639357841), ('improved_equipment', 0.3777184560383947), ('old_days', 0.3777184560383947), ('long_knife', 0.34224147303156494), ('rosy_mouth', 0.34224147303156494)]
+broken_car neighbors:
+[('black_silk', 0.8845204657891576), ('broken_nails', 0.8845204657891576), ('tossed_back', 0.8845204657891576), ('stepped_back', 0.727990177923129), ('turned_back', 0.6462719885110648), ('open_door', 0.5078047442623055), ('American_families', 0.42949956479901275), ('American_speech', 0.42949956479901275), ('Big_ones', 0.42949956479901275), ('Cheap_clothing', 0.42949956479901275)]
+
+
+closed_farm neighbors:
+[('closed_doors', 0.6624517565250091), ('normal_forces', 0.6624517565250091), ('such_information', 0.6624517565250091), ('parked_car', 0.5342534065592233), ('Certain_features', 0.4815128287150992), ('asked_know', 0.4815128287150992), ('closed_fields', 0.4815128287150992), ('human_freedom', 0.4815128287150992), ('intellectual_activity', 0.4815128287150992), ('smooth_fashion', 0.4815128287150992)]
+closed_group neighbors:
+[('closed_doors', 0.6647147009045951), ('normal_forces', 0.6647147009045951), ('such_information', 0.6647147009045951), ('parked_car', 0.536059489032018), ('closed_bedroom', 0.4625357572011057), ('Certain_features', 0.40571400703064814), ('asked_know', 0.40571400703064814), ('closed_fields', 0.40571400703064814), ('human_freedom', 0.40571400703064814), ('intellectual_activity', 0.40571400703064814)]
+closed_store neighbors:
+[('Certain_features', 0.6068036339659689), ('asked_know', 0.6068036339659689), ('closed_fields', 0.6068036339659689), ('human_freedom', 0.6068036339659689), ('intellectual_activity', 0.6068036339659689), ('smooth_fashion', 0.6068036339659689), ('such_uncertainty', 0.6068036339659689), ('immediate_future', 0.5292901944750771), ('closed_doors', 0.5248872575175124), ('normal_forces', 0.5248872575175124)]
+closed_bottle neighbors:
+[('closed_doors', 0.6826587422377575), ('normal_forces', 0.6826587422377575), ('such_information', 0.6826587422377575), ('parked_car', 0.5506062031261619), ('short_period', 0.44929067835447223), ('Certain_features', 0.4131413591222388), ('asked_know', 0.4131413591222388), ('closed_fields', 0.4131413591222388), ('human_freedom', 0.4131413591222388), ('intellectual_activity', 0.4131413591222388)]
+closed_way neighbors:
+[('closed_bedroom', 0.651201005181438), ('Certain_features', 0.49511290969928984), ('asked_know', 0.49511290969928984), ('closed_fields', 0.49511290969928984), ('human_freedom', 0.49511290969928984), ('intellectual_activity', 0.49511290969928984), ('smooth_fashion', 0.49511290969928984), ('such_uncertainty', 0.49511290969928984), ('immediate_future', 0.4315964694006963), ('characteristic_values', 0.4217171049321351)]
+
+
+
+Process finished with exit code 0

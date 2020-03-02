@@ -1,0 +1,5 @@
+expressed_function	words	expressed_words
+expressed_function	feelings	expressed_feelings
+expressed_function	disappointment	expressed_disappointment
+expressed_function	shame	expressed_shame
+expressed_function	sorrow	expressed_sorrow

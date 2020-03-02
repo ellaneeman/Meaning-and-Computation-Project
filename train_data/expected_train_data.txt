@@ -1,0 +1,4 @@
+expected_function	life	expected_life	
+expected_function	limits	expected_limits
+expected_function	value	expected_value
+expected_function	weight	expected_weight

@@ -1,0 +1,5 @@
+known_function	story known_story
+known_function	detail	known_detail
+known_function	things	known_things
+known_function	name	known_name
+known_function	building	known_building

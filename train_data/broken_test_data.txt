@@ -1,0 +1,6 @@
+broken_function	table	broken_table
+broken_function	leg	broken_leg
+broken_function	hand	broken_hand
+broken_function	window	broken_window
+broken_function	car	broken_car
+broken_function	bones	broken_bones

@@ -1,0 +1,9 @@
+colored_function	boy	colored_boy
+colored_function	brick	colored_brick
+colored_function	citizens	colored_citizens
+colored_function	girls	colored_girls
+colored_function	grocers	colored_grocers
+colored_function	maids	colored_maids
+colored_function	neighborhoods	colored_neighborhoods
+colored_function	people	colored_people
+colored_function	section	section

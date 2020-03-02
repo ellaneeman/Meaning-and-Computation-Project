@@ -1,0 +1,5 @@
+improved_function	machine	improved_machine
+improved_function	car	improved_car
+improved_function	work	improved_work
+improved_function	manner	improved_manner
+improved_function	position	improved_position

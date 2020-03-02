@@ -1,0 +1,8 @@
+colored_function	man colored_man
+colored_function	baby	colored_baby
+colored_function	table	colored_table
+colored_function	car colored_car
+colored_function	shirt	colored_shirt
+colored_function	eyes	colored_eyes
+
+

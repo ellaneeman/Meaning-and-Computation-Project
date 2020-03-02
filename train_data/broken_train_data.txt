@@ -1,0 +1,5 @@
+broken_function	head	broken_head
+broken_function	heart	broken_heart
+broken_function	homes	broken_homes
+broken_function	nails	broken_nails
+broken_function	trees	broken_trees

@@ -1,0 +1,5 @@
+changed_function	weather	changed_weather
+changed_function	circumstances	changed_circumstances
+changed_function	country	changed_country
+changed_function	shape	changed_shape
+changed_function	case	changed_case

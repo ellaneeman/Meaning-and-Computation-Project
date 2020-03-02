@@ -1,0 +1,5 @@
+detailed_function	explanation	detailed_explanation
+detailed_function	path	detailed_path	
+detailed_function	book	detailed_book
+detailed_function	figure	detailed_figure
+detailed_function	magazine	detailed_magazine

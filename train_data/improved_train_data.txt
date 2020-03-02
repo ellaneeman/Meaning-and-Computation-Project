@@ -1,0 +1,4 @@
+improved_function	attitude	improved_attitude
+improved_function	equipment	improved_equipment
+improved_function	intelligence	improved_intelligence
+improved_function	land	improved_land

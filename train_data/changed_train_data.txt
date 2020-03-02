@@ -1,0 +1,3 @@
+changed_function	appearance	changed_appearance
+changed_function	conditions	changed_conditions
+changed_function	size	changed_size
