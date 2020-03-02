@@ -1,15 +1,16 @@
-#Meaning and Computation Project
+# Meaning and Computation Project
 
-this project includes the files:
-corpus.py - creates co-occurence matrices from Brown Corpus using nltk library.
-project.py - creates semantic spaces from co-occurence matrices and trains models
-			to learn a composed meaning, it uses the DISSECT toolkit.
-results.txt - all neighbors of VNs and their similarity scores
-train data directory - includes a train data file for each one of the vbn_functions
+this project includes the files: 
+<ul>
+<li>corpus.py - creates co-occurence matrices from Brown Corpus using nltk library.</li>
+<li>project.py - creates semantic spaces from co-occurence matrices and trains models
+			to learn a composed meaning, it uses the DISSECT toolkit.</li>
+<li>results.txt - all neighbors of VNs and their similarity scores </li>
+<li>train data directory - includes a train data file for each one of the vbn_functions
 						with nouns that appear in the corpus after this vbn,
 						as well as a test data file in the same format with our own 
-						intuitive noun examples.
-
+						intuitive noun examples.</li>
+</ul>
 files for creating the spaces from matrices:
 core.cols - list of columns of the core matrix
 core.rows - list of rows of the core matrix
