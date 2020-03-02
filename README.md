@@ -1,4 +1,4 @@
-README file for Computaion and Meaning Project
+#Meaning and Computation Project
 
 this project includes the files:
 corpus.py - creates co-occurence matrices from Brown Corpus using nltk library.
