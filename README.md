@@ -12,18 +12,21 @@ this project includes the files:
 						intuitive noun examples.</li>
 </ul>
 files for creating the spaces from matrices:
-core.cols - list of columns of the core matrix
-core.rows - list of rows of the core matrix
-core.dm -  all core matrix saved in dense format, without the header (names of columns)
-header_core.dm -  all core matrix saved in dense format, with header
-per.cols - list of columns of the peripheral matrix
-per.rows - list of rows of the peripheral matrix
-per.dm -  all peripheral matrix saved in dense format, without the header (names of columns)
-header_per.dm -  all peripheral matrix saved in dense format, with header
-
+<ul>
+<li>core.cols - list of columns of the core matrix</li>
+<li>core.rows - list of rows of the core matrix</li>
+<li>core.dm -  all core matrix saved in dense format, without the header (names of columns)</li>
+<li>header_core.dm -  all core matrix saved in dense format, with header</li>
+<li>per.cols - list of columns of the peripheral matrix</li>
+<li>per.rows - list of rows of the peripheral matrix</li>
+<li>per.dm -  all peripheral matrix saved in dense format, without the header (names of columns)</li>
+<li>header_per.dm -  all peripheral matrix saved in dense format, with header</li>
+</ul>
+	
 pkl files:
-core.pkl - core semantic space saved in pickle format
-reduced_core.pkl - reduced core semantic space (after ppmi and avd reduction) saved in pickle format
-per.pkl - peripheral semantic space built under the reduced space, saved in pickle format
-											
+<ul>
+<li>core.pkl - core semantic space saved in pickle format</li>
+<li>reduced_core.pkl - reduced core semantic space (after ppmi and avd reduction) saved in pickle format</li>
+	<li>per.pkl - peripheral semantic space built under the reduced space, saved in pickle format</li>
+</ul>
 						
